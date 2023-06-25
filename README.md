@@ -11,7 +11,8 @@ Computer Sceince, M.S.
 - Applied different NLP techniques, supervised and unsupervised deep learning approaches, and statistical methods
 
 ## Projects
-### Driver Identification using smarphones sensors (The project was partially funded by NSF <img src="./assets/img/nsf.jpeg" width="50" />
+### Driver Identification using smarphones sensors 
+(The project was partially funded by NSF <img src="./assets/img/nsf.jpeg" width="50" />)
 [Publication 1](https://dl.acm.org/doi/abs/10.1145/3241539.3267769)
 [Publication 2](https://ieeexplore.ieee.org/abstract/document/9209713)
 

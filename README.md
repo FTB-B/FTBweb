@@ -30,6 +30,6 @@ Computer Sceince, M.S.
 
 ### Studied sinophobic behaviors on social media during COVID-19 outbreak. 
 [Publication](https://arxiv.org/pdf/2009.11792.pdf](https://ui.adsabs.harvard.edu/abs/2020arXiv200404046T/abstract)https://ui.adsabs.harvard.edu/abs/2020arXiv200404046T/abstract)
-## News Coverage [USA Today](https://www.usatoday.com/story/tech/2021/03/24/asian-american-hate-crimes-covid-harassment-atlanta-google-facebook-youtube/6973659002/), [Washington Post](https://www.washingtonpost.com/technology/2020/04/08/coronavirus-spreads-so-does-online-racism-targeting-asians-new-research-shows/)
+#### News Coverage [USA Today](https://www.usatoday.com/story/tech/2021/03/24/asian-american-hate-crimes-covid-harassment-atlanta-google-facebook-youtube/6973659002/), [Washington Post](https://www.washingtonpost.com/technology/2020/04/08/coronavirus-spreads-so-does-online-racism-targeting-asians-new-research-shows/)
 
 - Technologies: Python, NLP, Parallel processing, genism, GoogleAPIs.

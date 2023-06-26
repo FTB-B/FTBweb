@@ -18,14 +18,14 @@ Computer Sceince, M.S.
 - Considered different driving/turning scenarios such as turn on intesection with/without stop signs.
 - Extracted feaures from different smart phone sensors including Gyroscope, Accelerometer are used to reflect unique drivers.
 - Developed a multi-stage GBT classifer to increase the accuracy.
-- Technologies:Android, SQLite, Apache, MATLAB, Signal processing, Statistics, Feature extraction, GBT.
+- Technologies:**Android, SQLite, Apache, MATLAB, Signal processing, Statistics, Feature extraction, GBT**
   
 ### Studied the use of Fauxtography and spread of misinformation on social media. 
 [Publication](https://arxiv.org/pdf/2009.11792.pdf)
 
 - The first large-scale study of fauxtography, analyzed the use of manipulated or misleading images in news discussion on online communities.
 - Showed that fauxtography images are often turned into memes by Web communities.
-- Technologies: Python, hypothesis testing, image classification.
+- Technologies: **Python, hypothesis testing, image classification.**
 
 ### Studied sinophobic behaviors on social media during COVID-19 outbreak.
 [Publication](https://arxiv.org/pdf/2009.11792.pdf](https://ui.adsabs.harvard.edu/abs/2020arXiv200404046T/abstract)https://ui.adsabs.harvard.edu/abs/2020arXiv200404046T/abstract)
@@ -33,13 +33,13 @@ Computer Sceince, M.S.
 
 - collected two large-scale datasets from Twitter and 4chan's Politically Incorrect board (/pol/) over a time period of approximately five months
 - Studied the emergence of Sinophobic behavior on the Web during the outbreak of the COVID-19 pandemic.
-- Technologies: Python, NLP, Parallel processing, Language models, Temporal analysis, genism, GoogleAPIs.
+- Technologies: **Python, NLP, Parallel processing, Language models, Temporal analysis, genism, GoogleAPIs.**
 
 ### Developed a vision model based on PyTorch to detect kek-images shared in pol/4chan’s posts with F1-score above 80%.
 #### (This project have been requested by USAToday.) [article](https://www.usatoday.com/restricted/?return=https%3A%2F%2Fwww.usatoday.com%2Fin-depth%2Fnews%2Finvestigations%2F2022%2F09%2F20%2Fmemes-disinformation-trump-maralago-jan-6-hearings-covid%2F7832934001%2F), [twitter](https://twitter.com/aleszubajak/status/1572221061701464065).
 
-- Technologies: Python, Pytorch, Image-augmentation, Hugging Face Transformers
+- Technologies: **Python, Pytorch, Image-augmentation, Hugging Face Transformers.**
 
 ### Studied users opinions above mass shootings in the US on different socila media platforms.
 
-- Technologies: Python, Emotion Detection, Toxicity Detection, Image processing, Natural Language Processing
+- Technologies: **Python, Emotion Detection, Toxicity Detection, Image processing, Natural Language Processing.**
